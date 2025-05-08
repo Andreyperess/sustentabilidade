@@ -1,0 +1,32 @@
+/* Estilo individual dos cards */
+.card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    width: 300px;
+    padding: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  /* Estilo para imagens do card */
+  .card img {
+    width: 100%;
+    height: auto;
+    border-radius: 6px;
+    margin-bottom: 10px;
+  }
+  
+  /* Título do card */
+  .card h2 {
+    font-size: 1.2rem;
+    color: #007BFF;
+    margin: 10px 0;
+  }
+  
+  /* Parágrafo do card */
+  .card p {
+    font-size: 0.95rem;
+    line-height: 1.4;
+  }
+  

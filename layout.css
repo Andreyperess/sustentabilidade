@@ -1,0 +1,14 @@
+/* Container centralizado */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Wrapper dos cards com flexbox */
+  .card-wrapper {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+  }
+  
